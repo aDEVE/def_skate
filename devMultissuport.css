@@ -1,0 +1,16 @@
+article img, article p{
+    display:inline-block;
+}
+
+article img{
+    width:250px;
+}
+
+h1 {
+    text-align: center;
+    color: indianred;
+}
+
+h2 {
+    color: red;
+}
